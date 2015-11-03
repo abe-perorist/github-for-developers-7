@@ -14,3 +14,5 @@
 
 #### My hobby is running.
 
+#### My favorite color is red.
+
